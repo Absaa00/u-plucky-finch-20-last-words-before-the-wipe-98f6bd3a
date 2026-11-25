@@ -8,3 +8,6 @@ bundle.tar.gz
 .DS_Store
 Thumbs.db
 .venv/
+# competition kit lives on disk only, never in the repo (entry size caps)
+kit.zip
+u-plucky-finch-20-last-words-before-the-wipe-98f6bd3a-kit/
