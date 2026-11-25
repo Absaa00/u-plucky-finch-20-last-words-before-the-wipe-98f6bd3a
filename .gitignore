@@ -1,0 +1,10 @@
+# generated artefacts for last-words-before-the-wipe
+__pycache__/
+*.pyc
+*.pyo
+/output/
+bundle.tar.gz
+*.tar.gz
+.DS_Store
+Thumbs.db
+.venv/
